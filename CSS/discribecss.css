@@ -1,0 +1,40 @@
+/*discription page CSS code*/
+
+body {
+    padding-top: 20px;
+    background-color: #202020;
+    text-emphasis-color: ;
+  }
+  h1{
+    margin-right: 10px;
+    margin-left: 10px;
+   color:aliceblue;
+   font-family: 'Poppins', sans-serif;
+   letter-spacing: 
+   font-weight: 500px;
+  }
+  img {
+    border: 1px solid #ddd;
+    border-radius: 50%;
+ 
+    padding: 5px;
+    width: 150px;
+  }
+  .welcome{
+    margin-top: 10px;
+    display: flex;
+    margin-bottom: 30px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 10px;
+
+    background-color:#4b5785;
+  }
+  fieldset{
+    color:aliceblue;
+    background-color: black;
+  }
+ 
+  
+   
+  

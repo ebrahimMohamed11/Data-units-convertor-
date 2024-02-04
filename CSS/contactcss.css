@@ -1,0 +1,52 @@
+
+/*contact us CSS page*/
+body {
+    padding-top: 20px;
+    background-color: #202020;
+  }
+
+h1 {
+   
+    margin-right: 10px;
+    margin-left: 10px;
+   color: #4b5785;
+   font-family: 'Poppins', sans-serif;
+   letter-spacing: 
+   font-weight: 500px;
+  }
+  h3{
+    margin-right: 10px;
+    margin-left: 10px;
+   color: #4b5785;
+   font-family: 'Poppins', sans-serif;
+   letter-spacing: 
+   font-weight: 500px;
+  }
+  h4{
+    margin-right: 10px;
+    margin-left: 10px;
+   color: #E5E5E5;
+   font-family: 'Poppins', sans-serif;
+   letter-spacing: 
+   font-weight: 500px;
+  }
+
+  .continar{
+    text-align: center;
+    background-color:black ;
+    border-radius: 15px;
+    padding: 10px;
+    box-sizing: border-box;
+    box-shadow:0px 0px 1px 1px #f4eeee;
+    height: 700px;
+  }
+  .name{
+    display: flex;
+    text-align: center;
+    margin-left: 480px;
+  }
+  .email{
+    display: flex;
+    text-align: center;
+    margin-left: 480px;
+  }

@@ -1,0 +1,70 @@
+
+ 
+   /*home page CSS code*/
+   body {
+        padding-top: 20px;
+        background-color: #202020;
+      }
+      
+ 
+img {
+    border: 1px solid #ddd;
+    border-radius: 50%;
+ 
+    padding: 5px;
+    width: 150px;
+  }
+  .welcome{
+    margin-top: 10px;
+    display: flex;
+    margin-bottom: 30px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 10px;
+
+    background-color:#4b5785;
+  }
+  h1 {
+   
+    margin-right: 10px;
+    margin-left: 10px;
+   color: #E5E5E5;
+   font-family: 'Poppins', sans-serif;
+   letter-spacing: 
+   font-weight: 500px;
+  }
+
+  button {
+    background-color: #4b5785;;
+    border:#E5E5E5;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-left: 20px;
+    cursor: pointer;
+    border-radius: 20px;
+  }
+  .con{
+    display: flex;
+     margin-left: 20px;
+     margin-bottom: 20px;
+  }
+  h4{
+    margin-left: 20px;
+    color:#E5E5E5;
+   
+  }
+  .discribe{
+    display: flex;
+    margin-left: 20px;
+     margin-bottom: 20px;
+  }
+  .contact{
+    display: flex;
+    margin-left: 20px;
+  }
+   

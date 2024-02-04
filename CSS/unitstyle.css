@@ -1,0 +1,92 @@
+/*Conversion page CSS*/
+
+body {
+    padding-top: 20px;
+    background-color: #202020;
+  }
+  
+  h3 {
+   
+    margin-right: 10px;
+    margin-left: 10px;
+   color: #E5E5E5;
+   font-family: 'Poppins', sans-serif;
+   letter-spacing: 
+   font-weight: 500px;
+  }
+  
+   
+
+  .hstyle{
+    margin-left:40px;
+    margin-right: 40px;
+    margin-top: 20px;
+     
+    background-color: #4b5785;
+     border:0px 0px 1px 1px white ;
+    
+     padding: 1px;
+     border-radius: 15px;
+    text-align: center;
+  }
+  
+  .converter  {
+    margin: 0 auto;
+    
+   
+    width: 800px;
+     
+    background-color:black ;
+    border-radius: 5px;
+
+    max-width: 600px;
+    text-align: center;
+    padding: 10px;
+    box-sizing: border-box;
+    box-shadow:0px 0px 1px 1px #f4eeee;
+  }
+  
+  .converter input {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1em;
+    width: 40%;
+    text-align: center;
+    
+    margin-top: 10px;
+    
+    height: 40px;
+    box-sizing: border-box;
+  }
+   
+  .converter span {
+  position: relative;
+  vertical-align: middle;
+  color: #fff;
+  font-size:xx-large;
+  width: 100%;
+}
+
+.converter   select {
+  background-color: #4b5785;
+  color: #fff;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1em;
+  width: 40%;
+  text-align: center;
+  margin-bottom: 30px;
+   
+  height: 40px;
+  box-sizing: border-box;
+    
+}
+#inputtype{
+    margin-right: 12px;
+    color: aqua;
+}
+#outputtype{
+    
+    margin-left: 12px;
+    color: aqua;
+}
+
+ 
